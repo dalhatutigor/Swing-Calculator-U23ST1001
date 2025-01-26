@@ -1,1 +1,4 @@
-# Swing-Calculator-U23ST1001
+### Swing-Calculator
+### Name: Dalhatu Tigor Ezekiel 
+### Department: Statistics 
+### Matric no: U23ST1001
